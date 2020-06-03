@@ -13,3 +13,15 @@ non linear algorithems: graph tree
 
 2.function array structure pointer DMA
 课程第二节：Stack in Data Structure | Data Structure Tutorial | Mr. Srinivas
+
+static stack :array
+
+dynamic stack:pointer calloc(数据量，sizeof（数据类型））
+stack包含的函数有：
+creation，push，pop，isempty，isfull，size，traverse
+
+push(),在push之前需要检查isfull or not；注意******top=-1；每次都要检查堆栈是否是***满的
+
+
+
+
