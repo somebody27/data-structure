@@ -1,0 +1,15 @@
+https://www.youtube.com/watch?v=bum_19loj9A&list=PLBZBJbE_rGRV8D7XZ08LK6z-4zPoWzu5H&index=2&t=0s
+
+data structure的应用：比如地图上A B C D E各个地点之间的连接，单向、双向问题，测算任意地点到别的地点所需要最短距离问题
+
+array：不同的名字按顺序排列，容易查找某个名字
+
+link list：不同的名使用string连接容易，添加更多名字元素
+
+1.算法分类：
+linear algorithems:array link list queue stack
+
+non linear algorithems: graph tree
+
+2.function array structure pointer DMA
+课程第二节：Stack in Data Structure | Data Structure Tutorial | Mr. Srinivas
