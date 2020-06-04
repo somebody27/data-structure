@@ -1,0 +1,32 @@
+1）dynamic collection
+	insertions and deletions 
+2）no sequential order
+3）node
+4）types of linked list
+single
+			node 
+			structure node
+			{
+			node
+			*link
+
+			}
+double
+			node 
+			structure node
+			{
+			*llink
+			node
+			*rlink
+
+			}
+
+circular 
+			node 
+			structure node
+			{
+			*left
+			node
+			*right
+
+			}
